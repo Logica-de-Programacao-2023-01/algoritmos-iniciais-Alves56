@@ -1,0 +1,8 @@
+1.leia TC
+2.leia TF
+3.TC x 1,8 + 32= TF
+4.TF/1,8 - 32= TC
+5.se for TC 
+6.escreva formula1
+7.se for TF 
+8.escreva formula2
