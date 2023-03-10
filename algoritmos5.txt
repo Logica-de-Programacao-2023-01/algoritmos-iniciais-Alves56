@@ -1,0 +1,7 @@
+1. leia x
+2. leia lista
+3. para cada elemento da lista faça:
+4.      se elemento igual a x:
+5.              entao escreva x
+6.      senao:
+6. escreva "nao encontrei"
